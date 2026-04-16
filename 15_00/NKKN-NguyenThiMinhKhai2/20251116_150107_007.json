@@ -6,8 +6,8 @@
       "label": "car",
       "points": [
         [
-          602.19,
-          136.08
+          602.55,
+          135.44
         ]
       ],
       "group_id": null,
@@ -20,8 +20,8 @@
       "label": "motorbike",
       "points": [
         [
-          534.77,
-          146.37
+          537.39,
+          145.86
         ]
       ],
       "group_id": null,
@@ -31,11 +31,25 @@
       "mask": null
     },
     {
-      "label": "coach",
+      "label": "motorbike",
       "points": [
         [
-          480.57,
-          162.26
+          295.0,
+          140.39
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          385.61,
+          139.78
         ]
       ],
       "group_id": null,

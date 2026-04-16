@@ -3,11 +3,25 @@
   "flags": {},
   "shapes": [
     {
-      "label": "car",
+      "label": "coach",
       "points": [
         [
-          302.04,
-          23.08
+          269.78,
+          77.97
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          171.12,
+          252.64
         ]
       ],
       "group_id": null,
@@ -20,7 +34,7 @@
       "label": "car",
       "points": [
         [
-          311.45,
+          311.62,
           29.47
         ]
       ],
@@ -34,8 +48,8 @@
       "label": "car",
       "points": [
         [
-          238.08,
-          46.7
+          310.78,
+          55.11
         ]
       ],
       "group_id": null,
@@ -48,8 +62,8 @@
       "label": "car",
       "points": [
         [
-          310.68,
-          55.4
+          302.13,
+          22.26
         ]
       ],
       "group_id": null,
@@ -62,64 +76,8 @@
       "label": "car",
       "points": [
         [
-          314.48,
-          73.01
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "coach",
-      "points": [
-        [
-          269.89,
-          78.3
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "car",
-      "points": [
-        [
-          237.57,
-          95.15
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "motorbike",
-      "points": [
-        [
-          172.66,
-          254.06
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "car",
-      "points": [
-        [
-          196.86,
-          286.1
+          314.71,
+          73.39
         ]
       ],
       "group_id": null,

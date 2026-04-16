@@ -3,11 +3,11 @@
   "flags": {},
   "shapes": [
     {
-      "label": "motorbike",
+      "label": "car",
       "points": [
         [
-          578.56,
-          150.7
+          502.74,
+          256.4
         ]
       ],
       "group_id": null,
@@ -20,8 +20,8 @@
       "label": "motorbike",
       "points": [
         [
-          446.52,
-          201.04
+          445.77,
+          200.93
         ]
       ],
       "group_id": null,
@@ -34,8 +34,36 @@
       "label": "car",
       "points": [
         [
-          502.79,
-          256.88
+          578.03,
+          152.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          578.05,
+          151.89
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          410.37,
+          232.32
         ]
       ],
       "group_id": null,

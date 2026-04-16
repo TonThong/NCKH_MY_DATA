@@ -3,11 +3,11 @@
   "flags": {},
   "shapes": [
     {
-      "label": "coach",
+      "label": "car",
       "points": [
         [
-          29.34,
-          57.8
+          186.72,
+          98.3
         ]
       ],
       "group_id": null,
@@ -17,11 +17,25 @@
       "mask": null
     },
     {
-      "label": "car",
+      "label": "motorbike",
       "points": [
         [
-          187.17,
-          98.53
+          288.3,
+          59.31
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          324.2,
+          59.82
         ]
       ],
       "group_id": null,

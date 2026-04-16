@@ -3,11 +3,11 @@
   "flags": {},
   "shapes": [
     {
-      "label": "truck",
+      "label": "car",
       "points": [
         [
-          545.63,
-          94.69
+          325.77,
+          369.32
         ]
       ],
       "group_id": null,
@@ -20,8 +20,8 @@
       "label": "car",
       "points": [
         [
-          571.91,
-          101.95
+          492.79,
+          419.61
         ]
       ],
       "group_id": null,
@@ -34,8 +34,22 @@
       "label": "motorbike",
       "points": [
         [
-          318.27,
-          145.84
+          269.13,
+          298.67
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          521.66,
+          247.38
         ]
       ],
       "group_id": null,
@@ -48,36 +62,8 @@
       "label": "motorbike",
       "points": [
         [
-          380.27,
-          242.33
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "car",
-      "points": [
-        [
-          521.72,
-          242.64
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "coach",
-      "points": [
-        [
-          521.7,
-          242.65
+          380.73,
+          241.52
         ]
       ],
       "group_id": null,
@@ -90,36 +76,8 @@
       "label": "motorbike",
       "points": [
         [
-          268.68,
-          305.51
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "car",
-      "points": [
-        [
-          324.97,
-          370.27
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "point",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "car",
-      "points": [
-        [
-          493.94,
-          419.89
+          318.48,
+          145.83
         ]
       ],
       "group_id": null,

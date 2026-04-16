@@ -3,11 +3,11 @@
   "flags": {},
   "shapes": [
     {
-      "label": "motorbike",
+      "label": "coach",
       "points": [
         [
-          61.56,
-          154.16
+          209.52,
+          175.77
         ]
       ],
       "group_id": null,
@@ -17,11 +17,39 @@
       "mask": null
     },
     {
-      "label": "coach",
+      "label": "motorbike",
       "points": [
         [
-          207.41,
-          176.2
+          58.52,
+          147.95
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          43.04,
+          165.45
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          48.33,
+          212.33
         ]
       ],
       "group_id": null,

@@ -3,11 +3,39 @@
   "flags": {},
   "shapes": [
     {
-      "label": "car",
+      "label": "truck",
       "points": [
         [
-          441.34,
-          127.43
+          440.85,
+          127.63
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          123.32,
+          82.65
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          356.94,
+          70.25
         ]
       ],
       "group_id": null,
